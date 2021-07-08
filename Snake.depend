@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1625495275 source:e:\面试指南\stl资料\snake_vector\food.cpp
+	"food.h"
+	<Windows.h>
+	"wall.h"
+	<vector>
+
+1625495273 e:\面试指南\stl资料\snake_vector\food.h
+	<iostream>
+	"wall.h"
+	<vector>
+
+1625495269 e:\面试指南\stl资料\snake_vector\wall.h
+	<iostream>
+	<vector>
+
+1625497083 source:e:\面试指南\stl资料\snake_vector\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<Windows.h>
+	<vector>
+	"wall.h"
+	"snake.h"
+	"food.h"
+
+1625535519 e:\面试指南\stl资料\snake_vector\snake.h
+	<vector>
+	<Windows.h>
+	"wall.h"
+	"food.h"
+
+1625495266 source:e:\面试指南\stl资料\snake_vector\wall.cpp
+	"wall.h"
+	<vector>
+
